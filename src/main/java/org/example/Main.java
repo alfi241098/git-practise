@@ -19,6 +19,8 @@ public class Main {
             System.out.println("Feature3.2 changes");
             System.out.println("Mater branch changes 4");
             System.out.println("Mater branch changes 3.1");
+            System.out.println("Feature3.1 changes");
+            System.out.println("Feature3.2 changes");
         }
     }
 }
