@@ -23,7 +23,6 @@ public class Main {
             System.out.println("Master branch changes 7");
             System.out.println("Master branch changes 8");
             System.out.println("Master branch cchanges 9");
-
             System.out.println("feature 1 changes");
             System.out.println("feature 1.2 changes");
         }
