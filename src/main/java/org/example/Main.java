@@ -15,6 +15,8 @@ public class Main {
             System.out.println("master changes 1");
             System.out.println("master branch changes 2");
             System.out.println("master branch changes 3");
+            System.out.println("Feature3.1 changes");
+            System.out.println("Feature3.2 changes");
         }
     }
 }
