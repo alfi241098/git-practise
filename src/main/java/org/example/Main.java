@@ -98,6 +98,10 @@ public class Main {
             System.out.println("Master branch cchanges 9");
             System.out.println("feature 1 changes");
             System.out.println("feature 1.2 changes");
+            System.out.println("new branch changes A");
+            System.out.println("new branch changes B");
+            System.out.println("new branch chanegs C");
+
         }
     }
 }
